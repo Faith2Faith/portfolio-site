@@ -1,0 +1,3495 @@
+.mediaViewInfo {
+	--web-view-name: webpage;
+	--web-view-id: webpage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: webpage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.webpage_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: webpage;
+	--web-view-id: webpage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Group_42_Class {
+	position: absolute;
+	width: 424.567px;
+	height: 541.668px;
+	left: -176.283px;
+	top: 607.166px;
+	overflow: visible;
+}
+.Group_30_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,158.2833,316.8338) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101 {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.Group_33_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,23.2833,60.8338) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54_bv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55_bw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56_bx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57_by {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58_bz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68_b {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69_ca {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70_cb {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71_cc {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72_cd {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73_ce {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74_cf {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75_cg {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76_ch {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77_ci {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78_cj {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79_ck {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80_cl {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81_cm {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82_cn {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83_co {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84_cp {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85_cq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86_cr {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87_cs {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88_ct {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89_cu {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90_cv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91_cw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92_cx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93_cy {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94_cz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.Group_38_Class {
+	transform: matrix(1,0,0,1,172,1108.9999) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55_c {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56_da {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57_db {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58_dc {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59_dd {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60_de {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61_df {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62_dg {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63_dh {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64_di {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65_dj {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66_dk {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67_dl {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68_dm {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69_dn {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70_do {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71_dp {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72_dq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73_dr {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74_ds {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75_dt {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76_du {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77_dv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78_dw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79_dx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80_dy {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81_dz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91_d {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92_ea {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93_eb {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94_ec {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95_ed {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96_ee {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97_ef {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98_eg {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99_eh {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100_ei {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101_ej {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.Group_37_Class {
+	position: absolute;
+	width: 415.567px;
+	height: 428.668px;
+	left: 1264.717px;
+	top: 411.166px;
+	overflow: visible;
+}
+.Group_35_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,149.2833,60.8338) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54_em {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55_en {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56_eo {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57_ep {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58_eq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59_er {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60_es {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61_et {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62_eu {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63_ev {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64_ew {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65_ex {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66_ey {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67_ez {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77_e {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78_fa {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79_fb {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80_fc {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81_fd {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82_fe {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83_ff {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84_fg {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85_fh {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86_fi {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87_fj {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88_fk {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89_fl {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90_fm {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91_fn {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92_fo {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93_fp {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94_fq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95_fr {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96_fs {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97_ft {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98_fu {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99_fv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100_fw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101_fx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.Group_36_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,23.2833,203.8338) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54_fz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64_f {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65_ga {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66_gb {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67_gc {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68_gd {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69_ge {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70_gf {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71_gg {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72_gh {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73_gi {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74_gj {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75_gk {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76_gl {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77_gm {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78_gn {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79_go {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80_gp {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81_gq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82_gr {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83_gs {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84_gt {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85_gu {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86_gv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87_gw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88_gx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89_gy {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90_gz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100_g {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101_ha {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.Group_29_Class {
+	position: absolute;
+	width: 1739.19px;
+	height: 1327.355px;
+	left: 694.549px;
+	top: 214.979px;
+	overflow: visible;
+}
+.Group_43_Class {
+	position: absolute;
+	width: 1739.19px;
+	height: 1327.355px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_5_he_Class {
+	opacity: 0.998;
+}
+.Ellipse_5_he {
+	width: 819px;
+	height: 845px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,743.4512,165.0209) rotate(-41deg);
+	transform-origin: center;
+}
+.Ellipse_6_hg {
+	width: 406px;
+	height: 407px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,438.4512,504.021) rotate(-32deg);
+	transform-origin: center;
+}
+.Ellipse_7_hi {
+	width: 568px;
+	height: 622px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,117.4512,605.021) rotate(-30deg);
+	transform-origin: center;
+}
+.Image_1_Class {
+	position: absolute;
+	width: 590px;
+	height: 755px;
+	left: 509.018px;
+	top: 283.021px;
+	overflow: visible;
+}
+.Faith__Njuguna__Class {
+	position: absolute;
+	left: 538.285px;
+	top: 62px;
+	overflow: visible;
+	width: 597px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Forma DJR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 104px;
+	color: rgba(112,112,112,1);
+}
+.Group_44_Class {
+	transform: matrix(1,0,0,1,-261.2834,-367.8338) rotate(162deg);
+	transform-origin: center;
+	position: absolute;
+	width: 424.567px;
+	height: 541.668px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_30_hm_Class {
+	transform: translate(571.171px, 515.156px) matrix(1,0,0,1,158.2833,316.8338) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54_hn {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55_ho {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56_hp {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57_hq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58_hr {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59_hs {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60_ht {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61_hu {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62_hv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63_hw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64_hx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65_hy {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66_hz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76_h {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77_ia {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78_ib {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79_ic {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80_id {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81_ie {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82_if {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83_ig {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84_ih {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85_ii {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86_ij {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87_ik {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88_il {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89_im {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90_in {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91_io {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92_ip {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93_iq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94_ir {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95_is {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96_it {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97_iu {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98_iv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99_iw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100_ix {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101_iy {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(780.955px, 674.521px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.Group_33_iz_Class {
+	transform: translate(571.171px, 515.156px) matrix(1,0,0,1,23.2833,60.8338) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63_i {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64_ja {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65_jb {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66_jc {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67_jd {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68_je {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69_jf {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70_jg {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71_jh {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72_ji {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73_jj {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74_jk {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75_jl {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76_jm {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77_jn {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78_jo {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79_jp {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80_jq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81_jr {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82_js {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83_jt {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84_ju {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85_jv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86_jw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87_jx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88_jy {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89_jz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99_j {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100_ka {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101_kb {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(438.454px, 216.768px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.About_Class {
+	position: absolute;
+	left: 320.26px;
+	top: 288px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Forma DJR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.Group_46_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 262px;
+	top: 247px;
+	overflow: visible;
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Group_39_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Home_Class {
+	position: absolute;
+	left: 58px;
+	top: 23px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Forma DJR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.Group_47_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 262px;
+	top: 396px;
+	overflow: visible;
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Group_40_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3_kl {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Resume_Class {
+	position: absolute;
+	left: 51px;
+	top: 23px;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Forma DJR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.Group_48_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 262px;
+	top: 550px;
+	overflow: visible;
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Group_41_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3_kq {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Socials_Class {
+	position: absolute;
+	left: 44px;
+	top: 23px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Forma DJR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.Group_49_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 262px;
+	top: 704px;
+	overflow: visible;
+}
+.Ellipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Group_45_Class {
+	position: absolute;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3_kv {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Contact_Class {
+	position: absolute;
+	left: 44px;
+	top: 23px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Forma DJR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+.Group_34_Class {
+	transform: matrix(1,0,0,1,1483.0002,-100) rotate(43deg);
+	transform-origin: center;
+	position: absolute;
+	width: 243px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_54_ky {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_55_kz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_56_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_57_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_58_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_59_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_60_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_61_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_62_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_63_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_64_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_65_k {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_66_la {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_67_lb {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_68_lc {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,238,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_69_ld {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_70_le {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_71_lf {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,204,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_72_lg {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_73_lh {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_74_li {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,170,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_75_lj {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_76_lk {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_77_ll {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,136,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_78_lm {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_79_ln {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_80_lo {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_81_lp {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_82_lq {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_83_lr {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_84_ls {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_85_lt {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_86_lu {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_87_lv {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,0) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_88_lw {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,31) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_89_lx {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,62) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_90_ly {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_91_lz {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_92_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,102,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_93_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_94_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_95_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,68,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_96_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_97_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_98_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,34,159) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_99_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,97) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_100_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,128) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_101_l {
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(111.848px, 0px) matrix(1,0,0,1,0,159) rotate(90deg);
+	transform-origin: center;
+}
+.Hi__there___Im__Faith_Njuguna__Class {
+	position: absolute;
+	left: 538.068px;
+	top: 247px;
+	overflow: visible;
+	width: 1054px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Forma DJR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_102 {
+	position: absolute;
+	overflow: visible;
+	width: 1966px;
+	height: 51px;
+	left: -10px;
+	top: 1064px;
+}
