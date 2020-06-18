@@ -16,9 +16,10 @@
 	border: none;
 }
 .webpage_Class {
-	position: absolute;
+	position: fixed !important ;
 	width: 1920px;
 	height: 1080px;
+	 
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: webpage;
@@ -3482,7 +3483,7 @@
 	font-family: Forma DJR Display;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 32px;
+	font-size: 40px;
 	color: rgba(112,112,112,1);
 }
 .Rectangle_102 {
